@@ -31,6 +31,6 @@ The proposed dataset can be found at [https://pan.baidu.com/s/12Ln-nCb15YNu1T28p
 
 ## Citation
 Please cite our paper if you find it useful for your research.
-'''
+```
 D. Peng, L. Bruzzone, Y. Zhang, H. Guan, H. Ding and X. Huang, "SemiCDNet: A Semisupervised Convolutional Neural Network for Change Detection in High Resolution Remote-Sensing Images," in IEEE Transactions on Geoscience and Remote Sensing, doi: 10.1109/TGRS.2020.3011913.
-'''
+```
