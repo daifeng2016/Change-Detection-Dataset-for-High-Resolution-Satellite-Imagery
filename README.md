@@ -27,7 +27,7 @@ high-resolution remote sensing data sets. Extensive experimental
 results demonstrate the superiority of the proposed method
 against other state-of-the-art approaches.
 ## Dataset
-The proposed dataset can be find at [https://pan.baidu.com/s/12Ln-nCb15YNu1T28pzC0rA] password: 8quw
+The proposed dataset can be found at [https://pan.baidu.com/s/12Ln-nCb15YNu1T28pzC0rA] password: 8quw
 
 ## Citation
 Please cite our paper if you find it useful for your research.
